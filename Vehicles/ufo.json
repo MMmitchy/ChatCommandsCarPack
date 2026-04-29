@@ -1,0 +1,22 @@
+{
+  "name": "ufo",
+  "model": "deluxo",
+  "type": 1,
+  "primaryColor": 19,
+  "secondaryColor": 10,
+  "attachments":[
+    {
+      "model": "sum_prop_dufocore_01a",
+      "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 3.8
+      },
+      "rotation": {
+        "x": 0.4,
+        "y": 0.0,
+        "z": 0.0
+      }
+    }
+  ]
+}
